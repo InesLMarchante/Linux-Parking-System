@@ -19,5 +19,5 @@
 ##
 #####################################################################################
 #Automatização do script manutencao.sh
-59 5 * * 1-5 cd /home/a129846/parte-1 && ./manutencao.sh
-1 13 * * 1-5 cd /home/a129846/parte-1 && ./manutencao.sh
+59 5 * * 1-5 cd /home/aXXXXXX/parte-1 && ./manutencao.sh
+1 13 * * 1-5 cd /home/aXXXXXX/parte-1 && ./manutencao.sh
