@@ -4,9 +4,6 @@
 . so_utils.sh                       ## This is required to activate the macros so_success, so_error, and so_debug
 
 #####################################################################################
-## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2024/2025, Enunciado Versão 1
-##
-## Aluno: Nº:129846       Nome:Inês Lage Marchante
 ## Nome do Módulo: S3. Script: stats.sh
 ## Descrição/Explicação do Módulo:
 ## Este módulo tem como objetivo criar estatísticas sobre o sistema de estacionamento Park-IUL, mostrando os resultados em formato HTML no ficheiro stats.html
