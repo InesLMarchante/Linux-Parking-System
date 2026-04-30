@@ -1,7 +1,4 @@
 /****************************************************************************************
- ** ISCTE-IUL: Trabalho prático 3 de Sistemas Operativos 2024/2025, Enunciado Versão 1+
- **
- ** Aluno:Ines Lage Marchante Nº: 129846      Nome: Ines Lage Marchante
  ** Nome do Módulo: cliente.c
  ** Descrição/Explicação do Módulo:
  ** Este módulo tem como função para além de iniciar a comunicação com o Servidor de recolher os dados da viatura, de enviar o pedido de estacionamento e processar todas as respostas do Servidor Dedicado,
