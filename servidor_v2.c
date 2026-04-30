@@ -1,7 +1,4 @@
 /****************************************************************************************
- ** ISCTE-IUL: Trabalho prático 3 de Sistemas Operativos 2024/2025, Enunciado Versão 1+
- **
- ** Aluno:Ines Lage Marchante Nº: 129846      Nome: Ines Lage Marchante
  ** Nome do Módulo: servidor.c
  ** Descrição/Explicação do Módulo:
  ** Este módulo permite a inicialização do servidor, a criação e gestão de servidores dedicados, a comunicação com os clientes via IPC (message queue, semáforos e shared memory),
