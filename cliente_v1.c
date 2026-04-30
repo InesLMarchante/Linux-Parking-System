@@ -1,7 +1,4 @@
 /****************************************************************************************
- ** ISCTE-IUL: Trabalho prático 2 de Sistemas Operativos 2024/2025, Enunciado Versão 4+
- **
- ** Aluno: Inês Lage Marchante Nº:129846       Nome: Inês Marchante
  ** Nome do Módulo: cliente.c
  ** Descrição/Explicação do Módulo:
  **Este módulo funciona como um simulador do comportamento de um utilizador (cliente) que deseja usar o parque de estacionamento
