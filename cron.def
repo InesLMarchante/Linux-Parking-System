@@ -1,0 +1,26 @@
+#####################################################################################
+## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2024/2025, Enunciado Versão 1
+##
+## Aluno: Nº: 129846       Nome:Inês Lage Marchante
+## Nome do Módulo: S2.3 cron.def
+## Descrição/Explicação do Módulo:
+##
+## Este ficheiro é utilizado para configurar o cron de forma a que este execute o script manutencao.sh, de forma automática, sem necessidade de intervenção manual
+##
+## Explicação de quais os comandos a usar para configurar o seu sistema Linux
+## usando este ficheiro:
+##
+## O ficheiro "cron.def" permite a programação de tarefas para que estas sejam realizadas de forma automática
+## Cada linha tem a forma: MINUTO HORA DIA MES DIA-DA-SEMANA COMANDO 
+##
+## MINUTO (0-59)- Define o minuto exato em que o script será executado dentro da hora especificada.
+## HORA (0-23)- Define a hora do dia em que o script será executado.
+## DIA (*)- script é executado todos os dias do mês
+## MES (*)- script é executado todos os meses
+## DIA-DA-SEMANA (1-5)- script é executado de segunda-feira a sexta-feira
+## COMANDO- caminho do script a ser executado
+##
+#####################################################################################
+#Automatização do script manutencao.sh
+59 5 * * 1-5 cd /home/a129846/parte-1 && ./manutencao.sh
+1 13 * * 1-5 cd /home/a129846/parte-1 && ./manutencao.sh
