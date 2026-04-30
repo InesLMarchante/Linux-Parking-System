@@ -4,9 +4,6 @@
 . so_utils.sh                       ## This is required to activate the macros so_success, so_error, and so_debug
 
 #####################################################################################
-## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2024/2025, Enunciado Versão 1
-##
-## Aluno: Nº:129846       Nome:Inês Lage Marchante
 ## Nome do Módulo: S2. Script: manutencao.sh
 ## Descrição/Explicação do Módulo:
 ## Este módulo tem como objetivo a execução dos registos de estacionamento, garantindo a validade dos dados e arquivando os registos já concluídos, ou seja com data de entrada e data de saída
