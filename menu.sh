@@ -4,9 +4,6 @@
 . so_utils.sh                       ## This is required to activate the macros so_success, so_error, and so_debug
 
 #####################################################################################
-## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2024/2025, Enunciado Versão 1
-##
-## Aluno: Nº:129846       Nome:Inês Lage Marchante
 ## Nome do Módulo: S4. Script: menu.sh
 ## Descrição/Explicação do Módulo:
 ## Este módulo permite invocar os scripts implementados no sistema do estacionamento, sem repetir eventuais funcionalidades que ja estão implementadas
